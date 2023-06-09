@@ -18,6 +18,7 @@
         <module>dynamic-datasource</module>
         <module>log</module>
         <module>hello-enable</module>
+        <module>http-proxy</module>
     </modules>
 
     <properties>
