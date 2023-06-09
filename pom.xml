@@ -10,7 +10,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.sunkz.starters</groupId>
-    <artifactId>spring-boot-sunkz-starters</artifactId>
+    <artifactId>starters</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
