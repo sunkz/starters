@@ -19,6 +19,7 @@
         <module>log</module>
         <module>hello-enable</module>
         <module>http-proxy</module>
+        <module>sidecar</module>
     </modules>
 
     <properties>
