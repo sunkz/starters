@@ -23,7 +23,7 @@ public class SidecarAutoConfiguration {
     @PostMapping("/stop")
     public void stop(@RequestParam("name") String name) {
         ShellUtil.stopJar(name);
-        FileUtil.delete(name);
+        cn.hutool.core.io.FileUtil.del(name);
     }
 
 }
